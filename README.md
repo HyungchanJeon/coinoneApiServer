@@ -10,3 +10,7 @@
 - Coineone API의 CACHES를 설정할 수 있습니다.
 - `coinoneApiServer/coinoneApiProj/settings.py` 파일에서 `CACHES`의 `TIMEOUT` 설정
 - Django의 `python manage.py runserver`를 이용하여 실행 
+
+## 테스트 서버
+
+- `http://221.139.32.62:55100/`
